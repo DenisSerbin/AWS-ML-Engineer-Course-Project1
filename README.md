@@ -23,7 +23,7 @@ Obviously, the added features gave more detailed information to models, but it d
 Two sets of hyperparameters for lightGBM gradient boosted trees and neural networks were added in hope that those types of models would perform better. Indeed, the list of the best performing models this time included a lot of LightGBM models and a couple of NN models. But overall performnce stayed the same: the best model was still WeightedEnsemble_L3 with the Kaggle score of 1.32851.
 
 ### The models used + hyperparameters modified, and their Kaggle scores.
-![model-comparison.png](img/model-comparison.png)
+![Model comparison](Screenshots/model-comparison.png)
 
 ## Summary
 Very nice experience with AutoGluon. I learned about it form the course and now I'll try using in my models.
